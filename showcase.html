@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width" />
+        <meta name="keywords" content="Webdesign, interaction design, websites,interaction gouda, webdesign Boskoop, webdesign zuid-holland, website ontwerp,  website design, web design gouda, internet ontwerp, webdevelopment, website ontwikkeling, Boskoop, Youri, Bosselaar, youri bosselaar, web design boskoop, yourboss, yourboss webdesign">
+        <meta name="description" content="YOURBOSS: Dutch Web & Interaction designer based in Boskoop, Zuid-Holland.">
+        <meta name="robots" content="all">
+        <meta name="author" content="Youri Bosselaar">
+        <title>YOURBOSS - Web & Interaction designer</title>
+    
+
+<!--Opmaak en lettertypes-->
+        <link rel="stylesheet" href="css/yourboss.css">
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
+        <link href="css/lightbox.css" rel="stylesheet" />
+        <link rel="icon" type="image/png" href="www.yourboss.nl/favicon.png">
+
+<!--Scripts -->
+        <script type="text/javascript" src="script/jquery.js"></script>
+        <script type="text/javascript" src="script/addcode.js"></script>
+        <script type="text/javascript" src="script/jquery.easing.1.3.js"></script>
+        <script src="script/lightbox.js"></script>
+
+<!--google analytics-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39115505-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript">
+
+    $(document).ready(function(){
+
+        var lastLink;
+        
+        $("#casemenu a").click(function(){
+            //handle current link and pag//            
+            var pageId = $(this).attr('id');
+            $(this).addClass("active");
+            $(this).removeClass("showthumb");
+            
+            var currentCase = "case_"+pageId; 
+            $("#" + currentCase).css('display','block');
+
+            //handle last used link and page//
+            $("#"+lastLink).addClass("showthumb");
+            $("#"+lastLink).removeClass("active");
+            var lastCase = "case_"+lastLink;
+            $("#" + lastCase).css('display','none');
+            lastLink = $(this).attr('id'); 
+
+        });
+    });
+</script>  
+
+</head>
+<body>
+        <header id="casehead">
+                <ul id="casemenu">
+                <a class="showthumb" id="westpop" href="#">
+                    <img src="css/bg/wp_show.jpg">    
+                    <li>WESTPOP</li></a>
+                <a class="showthumb" id="museon" href="#">
+                    <img src="css/bg/mus_show.jpg">    
+                    <li>MUSEON</li></a>
+                <a class="showthumb" id="bakker" href="#">
+                    <img src="css/bg/bb_show.jpg">    
+                    <li>BAKKER BART</li></a>
+                <a class="showthumb" id="hotel" href="#">
+                    <img src="css/bg/hot_show.jpg">    
+                    <li>HOTEL DU PARC</li></a>
+                <a class="showthumb" id="cci" href="#">
+                    <img src="css/bg/cci_show.jpg">
+                    <li>CCI</li></a>
+                <a class="showthumb" id="pinhole" href="#">
+                    <img src="css/bg/pin_show.jpg">    
+                    <li>PINHOLE</li></a>
+                </ul>
+ 
+        </header>
+
+
+        <div class="thecase" id="case_westpop">
+            <h1>westpop</h1>
+         
+               <section class="art">
+                    <div class="texting"> <h2>The project</h2>
+                     <p>For fictional customer Westpop, a small Dutch music festival, my project group had to design and develop an intranet with a social touch. The challenge was to create a bigger affection between the direction and the employees. We figured that proper use of the word ‘team’ should do the trick. That includes a team page, social section and the option to share your music experiences.</p>
+                 </div>
+                    <div class="proj_specs">
+                        <h3>Category:</h3> Company intranet
+                        <h3>Tasks:</h3> Create mockups and wireframes, design icon set, build website
+                        <h3>Project origin:</h3> School project (CMD-5)
+                        <h3>Tech:</h3> Photoshop, Javascript, PHP, SQL, HTML/CSS
+                    </div>
+                     <span>.</span>
+                </section>
+                <section class="art">
+                    <div class="texting">
+                    <h2>wireframes</h2>
+                    
+                    <p>Creating wireframes is like writing html. You take your content and put it on a certain place on the website. You see if that place works for that content and why it does(n't). I always draw paper wireframes before i start creating digital ones, just because it is a much faster way to find flaws in your page layout. For  </p>   
+        
+                </div>
+                    <img src="css/bg/wpdummy.jpg">
+                    <span>.</span>
+                </section>
+
+                <section class="art">
+                    <div class="texting">
+                    <h2>icons</h2>
+             
+                    <p>Another part of the project was to create a set of icons for the festival. These icons were to be used both on the website as at the festival itself. My part in this was to create the icons for the staff teams (t-shirts and team web page) and an icon for 'no bottles aloud'.</p>   
+              
+                </div>
+                       <img src="css/bg/icons.jpg">
+                <span>.</span>
+                </section>
+
+                <section class="art">
+                    <div class="texting">
+                    <h2>THE INTRANET</h2> 
+                    <p>Westpop's intranet needed to become social. We made a minimalistic design, using a lot of white, combined with Westpop's visual identity. </p>   
+                    
+                </div>
+                <img src="css/bg/WP_home.png">
+                <img src="css/bg/WP_team.png">
+                <span>.</span>
+                </section>
+        </div>  
+
+
+        <div class="thecase" id="case_museon">          
+                 <h1>Museon</h1>
+            <section class="art">
+                    <div class="texting">
+                    <h2>The project</h2>
+                    <p>For my first school project, my project group was assigned to create an interactive, educational Flash application. This application needed to targe primary school kids, and teach them about way sound works. The best application made might be picked by Dutch museum "Museon" for actual use inside the museum.</p>
+                    </div>    
+                    <div class="proj_specs">
+               
+                <h3>Category:</h3>interactive flash application
+                <h3>Tasks:</h3> Create mockups and wireframes, design icon set, build website.
+                <h3>Project origin:</h3> School project (CMD-1)
+                <h3>Tech:</h3> Flash, Actionscript 2.0
+
+            </div>
+                
+                <span>.</span>
+                </section>
+
+            <section class="art">
+                        <div class="texting">
+                <h2>Illustrations</h2>
+
+                    <p>Since the application needed to target children, we wanted it to have a cartoony look & feel. We illustrated all environments and objects ourselves, using Adobe Flash. This was my first contact with digital illustration, where i learned how to create illustrations using only basic shapes. </p>
+                    </div>
+                <img src="css/bg/MUS_bouw.png">
+                <img src="css/bg/MUS_fiets.png">
+                    <span>.</span>
+            </section>
+
+            <section class="art">
+                 <div class="texting">
+                <h2>animation</h2>
+                    <p>Another thing that was new for me during this project was animation. Just static objects wouldn't make much of an application, so some animation needed to be done. Using keyframes, scenes and actionscript, we created a story for the kids to walk through.</p>
+             
+                </div>
+                       <span>.</span>
+            </section>
+        </div>     
+
+        <div class="thecase" id="case_bakker">
+
+              <h1>Bakker Bart</h1>
+                    <section class="art">
+                        <div class="texting">
+                    <h2>Mobile web application</h2>
+                     <p>As one of my most challenging school projects, Bakker Bart was also the most fun to do. In this individual project I needed to pick my own fictional client to create a web application for. Because i wanted to get some experience in building websites for a retail company, i chose Bakker Bart, a famous Dutch sandwich store. I wanted to turn their online shop into a web application, so people can order their lunch on the go and then pick it up within a short while.</p>
+                     </div>
+                      <div class="proj_specs">
+                        <h3>Category:</h3>Mobile web application
+                        <h3>Tasks:</h3> Mobile design, flowcharts, mobile development  
+                        <h3>Project origin:</h3> School project (CMD-6)
+                        <h3>Tech:</h3> Photoshop, Jquery Mobile, WebSQL, PHP, HTML/CSS
+                    </div>
+                    <span>.</span>
+                    </section>
+                <section class="art">
+                <div class="texting">
+                    <h2>Interface design</h2>
+                    <p>My first challenge was to design an interface that was quick and easy to use. As I had no experience in mobile interface design, this was a challenging process, since there were many new aspects that needed to be taken into account. Environment, Android guidelines, the size of a person's fingertop and much more. </p>   
+              
+                </div>
+                <img src="css/bg/wireflow.png">
+                      <span>.</span>
+                </section>
+
+                <section class="art">
+                <div class="texting">
+                <h2>Mobile development</h2>
+                    <p>The second challenge: Jquery Mobile. A javascript library that I had not worked with before. Using live page changes, swipes and slides was a bit hard to learn, but certainly most rewarding. That, combined with the standard headers and toolbars this library offered, my small ordinary website got the feel of a real mobile webapp.</p>
+                    
+                    </div>
+                    <img src="css/bg/BB_inter.png">
+                    <span>.</span>
+            </section>
+        </div>
+
+
+        <div class="thecase" id="case_hotel">
+
+              <h1>HOTEL DU PARC</h1>
+               <section class="art">
+                  <div class="texting"> 
+                    <h2>LES BAINS</h2>
+                     <p>In the summer of 2012 my parents invited me to bring them a visit on their holiday in France. When I drove into the small town where they stayed, Plombières les Bains, The first thing I noticed was a massive, old, abandoned building. I immediatly knew I had to go in there with my DSLR. Me and my brother discovered a broken window above a hidden backdoor and went inside. We found out it had been both a hotel and a school, and that we weren't the first to go in since it had been closed.s</p>                     
+                
+                    </div>
+                    <div class="proj_specs">
+               
+                        <h3>Category:</h3>Photography
+                        <h3>Tasks:</h3> Entering the abandoned hotel, taking awesome pictures
+                        <h3>Project origin:</h3> Personal curiosity
+                    </div>
+                    <span>.</span>
+                </section>
+                <section class="art">
+                            <img src="css/bg/HOT_bench.jpg">
+                            <img src="css/bg/HOT_chair.jpg">
+                            <img src="css/bg/HOT_class.jpg">
+                            <img src="css/bg/HOT_board.jpg">
+                        <span>.</span>
+                </section>
+  
+        </div>
+
+        <div class="thecase" id="case_cci">
+
+              <h1>CAR CRASH INVESTIGATION</h1>
+               <section class="art">
+                    <div class="texting">   
+                        <h2>The first 20 seconds</h2>
+                        <p>A leader is the intro to a tv-show. It should get you excited to keep looking at the show. Dutch DPI animation house challenged us to make a leader for their fictional tv-show 'Car Crash Investigation', using only objects we made ourselves. The only thing they gave us was a taxi. The concept of the video was that the world of the accident is set inside the words 'Car Crash Investigation'.</p>
+          
+                    </div>
+                    <div class="proj_specs">
+                        <h3>Category:</h3>Video/3D modelling.
+                        <h3>Tasks:</h3>Modelling 3d objects, animating objects, video editing
+                        <h3>Project origin:</h3> School project (3d-minor)
+                        <h3>Tech:</h3> 3DS MAX, Adobe After Effects, Adobe Premiere Pro
+                    </div>
+                    <span>.</span>
+                </section>
+               
+                <section class="art">
+                    <div class="texting">
+                    <h2>Animation & Video editing</h2>
+                    <p>As I had a little experience in video editing, I decided to take on the responsibility for that part of the project. This also meant I had to choose what shots we were going to use and animate the camera movements for these shots.</p>   
+                     </div>
+                        <iframe src="http://player.vimeo.com/video/61881555" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+                  <span>.</span>
+                </section>
+
+                <section class="art">
+                    <div class="texting">
+                    <h2>3d modelling</h2>
+                    <p>With zero experience, our project group started to learn how to model using 3DS MAX. Starting with a traffic light, and ending with ice cream trucks & restaurants. After destroying seven mouses with a total of fourteen million clicks, our end products were starting to shape up. </p>   
+                     </div>
+                           <img src="css/bg/CCI_ijsco.jpg">
+                </section>
+
+        </div>
+
+        <div class="thecase" id="case_pinhole">
+
+            <h1>PINHOLE</h1>
+                <section class="art">
+                    <div class="texting">
+                        <h2The Dark Chamber</h2>
+                        <p>You take one empty paint can, a piece of ducttape, some black paint, a needle, photo paper, some aluminum foil and one massive box of patience. Building your own photo camera and taking a pretty picture with it was one of the assignments during my photography minor at school. It taught us the basics of photograpy. Looking at the light, using a manual shutter (made of ducttape) and using chemicals to develop your photo. It taught me to carefully think about my composition, instead of just burst away for eight minutes with your digital camera. </p>
+                        <span>.</span>
+                    </div>
+                    <div class="proj_specs">
+                        <h3>Category:</h3>Photography
+                        <h3>Tasks:</h3> Building pinhole camera, taking & developing the picture
+                        <h3>Project origin:</h3> School project (photography-minor)
+                    </div>
+                    <span>.</span>
+                </section>
+                <section class="art">
+                <img src="css/bg/pinhole2.jpg">
+                    <span>.</span>
+                </section>
+        </div>
+
+               
+   
+</body>
+</html>

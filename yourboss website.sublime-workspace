@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"repeat",
+				"background-repeat"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"read",
+				"ReadMore"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"Open",
+				"open"
+			],
+			[
+				"op",
+				"open"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"Sm",
+				"SmallList"
+			],
+			[
+				"Vacna",
+				"VacancySearch"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"f",
+				"fff"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"prokyon",
+				"ProkyonMedium"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"cu",
+				"current_path"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"header",
+				"header-container"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"drupal_",
+				"drupal_get_path"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"mob",
+				"mobilesearchbar"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"js",
+				"javascript"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"image",
+				"image_carousel"
+			],
+			[
+				"next",
+				"nextklant"
+			],
+			[
+				"prev",
+				"prevklant"
+			],
+			[
+				"klant",
+				"klantcarousel"
+			],
+			[
+				"flex",
+				"flexLeft"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scherm",
+				"schermCheck"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"ui",
+				"ui-carousel-prev"
+			],
+			[
+				"logo",
+				"logo_container"
+			],
+			[
+				"flexn",
+				"flexnav_right"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bord",
+				"border-top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 25082,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/yourboss.css",
+			"settings":
+			{
+				"buffer_size": 12812,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"add p",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/D/www2/WerkAanWonen/Aedes.htm",
+		"/Volumes/D/www2/WerkAanWonen/Fonts/FontAwesome/font-awesome.min.css",
+		"/Users/youri/Dropbox/Development/yourboss.nl/index.html",
+		"/Users/youri/Dropbox/Development/yourboss.nl/css/yourboss.css",
+		"/Users/youri/Dropbox/Development/yourboss.nl/constructionsite/css/temp.css",
+		"/Users/youri/Dropbox/Development/yourboss.nl/constructionsite/css/loveme.css",
+		"/Users/youri/Dropbox/Development/yourboss.nl/constructionsite/index.html",
+		"/Users/youri/Dropbox/janine/yourboss.nl/css/yourboss.css",
+		"/Users/youri/Dropbox/janine/yourboss.nl/index.html",
+		"/Volumes/D/www2/Liones/branches/1.00/development/Skins/Liones/Scripts/add2home.js",
+		"/Volumes/D/www2/Liones/branches/1.00/development/Layouts/ThreeColumns/Template.htm",
+		"/Volumes/D/www2/Liones/branches/1.00/development/Skins/Liones/Template.js",
+		"/Volumes/D/www2/Liones/branches/1.00/development/Skins/Liones/Template.css",
+		"/Users/youri/Dropbox/Development/Flexbox Experiment/HTML5 Boilerplate/index.html",
+		"/Users/youri/Dropbox/Development/Flexbox Experiment/HTML5 Boilerplate/css/main.css",
+		"/Volumes/D/www2/WerkAanWonen/Aedes.css",
+		"/Volumes/D/www2/WerkAanWonen/TypeGroups/SearchPage/SearchPage.htm",
+		"/Volumes/D/www2/WerkAanWonen/AedesTemp.css",
+		"/Volumes/D/www2/WerkAanWonen/AedesAsItShouldBe.css",
+		"/Volumes/D/www2/WerkAanWonen/Types/VacancyIndex/VacancyIndex.htm",
+		"/Volumes/D/www2/WerkAanWonen/Types/VacancyIndexView/VacancyIndexView.htm",
+		"/Volumes/D/www2/WerkAanWonen/Types/Vacancy/Vacancy.htm",
+		"/Volumes/D/www2/WerkAanWonen/Types/Site/Site.htm",
+		"/Volumes/D/www2/WerkAanWonen/System/XSearch/LynkxSearch.htm",
+		"/Volumes/D/www2/WerkAanWonen/System/XForm/MediaManager/MediaLibrary.htm",
+		"/Volumes/D/www2/WerkAanWonen/Types/Site/Site.xinclude",
+		"/Volumes/D/www2/WerkAanWonen/Aedes.js",
+		"/Users/youri/Downloads/div.html",
+		"/Volumes/D/www2/WerkAanWonen/System/Backoffice/Login.htm",
+		"/Volumes/D/www2/WerkAanWonen/Fonts/P022W14T.svg",
+		"/Volumes/D/www2/WerkAanWonen/fonts/P022W16T.svg",
+		"/Volumes/D/www2/WerkAanWonen/Backoffice/MaintenanceMenus.lynkx",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/variables.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/js/heijmans.js",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/templates/page.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/header.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/shame.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/template.php",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/heijmans.less",
+		"/Users/youri/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/type.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/icons.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/mixins.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/css/heijmans.css",
+		"/Users/youri/Work/vhosts/heijmans-corporate/builds/20130809-135700/profiles/heijmans_corporate/themes/heijmans_corporate/font-awesome/less/mixins.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/builds/20130809-135700/profiles/heijmans_corporate/themes/heijmans_corporate/font-awesome/less/path.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/builds/20130809-135700/profiles/heijmans_corporate/themes/heijmans_corporate/font-awesome/less/variables.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/build/profiles/heijmans_corporate/themes/heijmans_corporate/less/boxes.less",
+		"/Users/youri/Work/vhosts/heijmans-corporate/builds/20130809-135700/profiles/heijmans_corporate/themes/heijmans_corporate/less/variables.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/less/mixins.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/less/header.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/less/grid.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/less/footer.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/less/boxes.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/css/heijmans.css",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/less/variables.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/home_1/home-1.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/themes/heijmans_projects/less/shame.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/modules/contrib/wysiwyg/editors/js/none.js",
+		"/Users/youri/Work/vhosts/heijmans-hvg/builds/20130807-134841/profiles/heijmans_projects/modules/README.html",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/heijmans.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/grid.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/boxes.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/features/heijmans_ft_system_settings/heijmans_ft_system_settings.strongarm.inc",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/footer.less",
+		"/Users/youri/Documents/Youri/Bootstrap 3/js/collapse.js",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/js/bootstrap-collapse.js",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/misc/collapse.js",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/shame.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/header.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/variables.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/mixins.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/heights.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/eenkoloms/eenkoloms.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/detail_1/detail-1.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/huisdetail/huisdetail.inc",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/tweekoloms/tweekoloms.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/nieuwsartikel/nieuwsartikel.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/nieuws/nieuws.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/huislanding1/huizen-1.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/huislanding2/huizen-2.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/huisdetail/huisdetail.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/detail_4/detail-4.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/detail_3/detail-3.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/detail_2/detail-2.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/home_4/home-4.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/home_4/home_4.inc",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/home_2/home-2.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/home_3/home-3.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/home_1/home-1.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_layouts/plugins/layouts/home_1/home_1.inc",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/template.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/templates/views-view-field--FAQ--list-pane--title.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/templates/views-view-field--FAQ--list-pane--body.tpl.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/css/bootstrap.css",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_content/includes/content_creator.inc",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/js/collapse.js",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-05.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/Less/shame.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/Less/footer.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/Less/heijmans.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/Less/header.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/Less/heights.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/Less/bootstrap.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/Less/boxes.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/heijmans_projects.info",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/css/shame.css",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/css/extra.css",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/heijmans_projects.info",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-1.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-15.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-13.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-8.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-7.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-6.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-3.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-2.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-14.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-12.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-11.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-10.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-9.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-5.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/modules/custom/heijmans_faq/data/faqs/faq-4.php",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/less/bootstrap.less",
+		"/Users/youri/Downloads/bootstrap.css",
+		"/Users/youri/Documents/Youri/Heijmans/git/heijmans html/heijmans-projecten/Bootstrap 3 copy/less/grid.less",
+		"/Users/youri/Work/vhosts/heijmans-hvg/build/profiles/heijmans_projects/themes/heijmans_projects/templates/page.tpl.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Volumes/D/www2/Televizier"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h2",
+			"triangle",
+			"vacancysearch",
+			".QueryKeyword",
+			"li.large.png",
+			".vacancy",
+			"font",
+			".display",
+			".Display",
+			"class=\"display\"",
+			"transition",
+			"social",
+			"i {",
+			"icon-twitter",
+			".social",
+			"page2",
+			"page1",
+			"mainnav",
+			"max-width",
+			".paging",
+			"paging",
+			"paging-group",
+			"retina",
+			".column-2",
+			"overlay",
+			"namedurl",
+			"5595",
+			"unesco",
+			"column-2",
+			".column-2",
+			"word-wrap",
+			"id=5595",
+			"anwb",
+			".page",
+			"hidemenu",
+			".mobilebar",
+			"h2",
+			"deel2",
+			"SmallList",
+			"smallist",
+			"SmallList",
+			"smallist",
+			"largelist",
+			"highlight",
+			"Largelist",
+			"smallist",
+			"list",
+			"#1",
+			"#f",
+			"mediumlist",
+			"list",
+			"extensive",
+			"ul",
+			"list",
+			"/* f",
+			"vacancysearc",
+			"highlight",
+			"gezien",
+			"topbanen",
+			"meer topbanen",
+			"highlight",
+			"drilldown",
+			"listoptions",
+			"articleli",
+			"first",
+			"4e5c68",
+			"paging",
+			"1ca7fa",
+			"gedetailleerd",
+			"kort",
+			"vacancyindex",
+			"vacatures bij woningc",
+			"index",
+			"vacancyindex",
+			"class=\"paging\"",
+			"vacancyindex",
+			"class=\"paging\"",
+			"cc002e",
+			"listoptions",
+			"searchform",
+			".columnright",
+			"xsearchsuggestresults",
+			"zoek op tref",
+			"toggle",
+			"togle",
+			"of zoek via",
+			"categorie",
+			".Close",
+			".close",
+			".login",
+			"span>inloggen",
+			"searchfomr",
+			"searchform",
+			"h3",
+			"zoek op trefwoord",
+			"toggle",
+			"height: 0",
+			".advancedsearchtoggl",
+			"searchform",
+			"class=\"search",
+			"h5.search",
+			"searchform",
+			"VacancySearchOld",
+			"uitgebreid z",
+			"h6",
+			"of zoek via de catego",
+			"select",
+			"tabs",
+			"toggleadvancedsearch",
+			"searchform",
+			"search",
+			"serach",
+			"value=\"zoek",
+			"submi",
+			"submit",
+			"pro",
+			"search",
+			"searchform",
+			".Open",
+			"187",
+			"187px",
+			"searchform",
+			"li.large",
+			"li.large.png",
+			"footer",
+			"li.large.png",
+			"footer",
+			"background"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"page-webdesign",
+			"yourboss",
+			"portfolio",
+			"Body",
+			"Fonts",
+			"&:hover, &:focus",
+			"@breakpoint-narrower",
+			"breakpoint-narrower",
+			"@hm-",
+			"@gutter",
+			"optional-boxes",
+			"link-boxes",
+			"regular-boxes",
+			"tall-boxes",
+			"class=\"col",
+			" ",
+			"bottom_content",
+			"main_content",
+			"top_content",
+			".masthead",
+			"<a class=\"linkbutton no-link\"> Brochure</a></div>",
+			"<footer>\n				<div class=\"footersection\">\n				<a href=\"index.html\"><img src=\"img/heijmans_logo.jpg\" width=\"100px\" height=\"auto\" style=\"float:left;\"></a>\n				<a><p>Privacy</p></a>\n				<a><p>Disclaimer</p></a>\n				</div>\n\n				<div class=\"footersection\">\n				<a class=\"btn btn-danger\" id=\"redtheme\">Mortiere</a>\n				<a class=\"btn btn-primary\" id=\"bluetheme\">Noorderhaven</a>\n				</div>\n\n				<div class=\"footersection\">\n					<ul class=\"social\">\n						<li><a href=\"https://www.facebook.com/HeijmansNL\"><img src=\"img/heijmans_fb.png\" /></a></li>\n						<li><a href=\"http://pinterest.com/heijmansnl\"><img src=\"img/heijmans_pin.png\" /></a></li>\n						<li><a href=\"https://twitter.com/HeijmansNL\"><img src=\"img/heijmans_tw.png\" /></a></li>\n						<li><a href=\"http://www.youtube.com/user/HeijmansNV\"><img src=\"img/heijmans_yt.png\" /></a></li>\n					</ul>\n				</div>\n			</footer>",
+			"<footer>\n				<div class=\"footersection\">\n				<a href=\"index.html\"><img src=\"img/heijmans_logo.jpg\" width=\"100px\" height=\"auto\" style=\"float:left;\"></a>\n				<a><p>Privacy</p></a>\n				<a><p>Disclaimer</p></a>\n				</div>\n\n				<div class=\"footersection\">\n				<a class=\"btn btn-danger\" id=\"redtheme\">Mortiere</a>\n				<a class=\"btn btn-primary\" id=\"bluetheme\">Noorderhaven</a>\n				</div>\n\n				<div class=\"footersection\">\n					<ul class=\"social\">\n						<li><a href=\"https://www.facebook.com/HeijmansNL\"><img src=\"img/heijmans_fb.png\" /></a></li>\n						<li><a href=\"http://pinterest.com/heijmansnl\"><img src=\"img/heijmans_pin.png\" /></a></li>\n						<li><a href=\"https://twitter.com/HeijmansNL\"><img src=\"img/heijmans_tw.png\" /></a></li>\n						<li><a href=\"http://www.youtube.com/user/HeijmansNV\"><img src=\"img/heijmans_yt.png\" /></a></li>\n					</ul>\n				</div>\n<footer>\n				<a href=\"index.html\"><img src=\"img/heijmans_logo.jpg\" width=\"100px\" height=\"auto\" style=\"float:left;\"></a>\n				<a><p>Privacy</p></a>\n				<a><p>Disclaimer</p></a>\n				<a class=\"btn btn-danger\" id=\"redtheme\">Mortiere</a>\n				<a class=\"btn btn-primary\" id=\"bluetheme\">Noorderhaven</a>\n				\n\n				<nav class=\"social\">\n					<ul>\n						<li><a href=\"https://www.facebook.com/HeijmansNL\"><img src=\"img/heijmans_fb.png\" /></a></li>\n						<li><a href=\"http://pinterest.com/heijmansnl\"><img src=\"img/heijmans_pin.png\" /></a></li>\n						<li><a href=\"https://twitter.com/HeijmansNL\"><img src=\"img/heijmans_tw.png\" /></a></li>\n						<li><a href=\"http://www.youtube.com/user/HeijmansNV\"><img src=\"img/heijmans_yt.png\" /></a></li>\n					</ul>\n			</footer>",
+			"<footer>\n				<div class=\"footersection\">\n				<a href=\"index.html\"><img src=\"img/heijmans_logo.jpg\" width=\"100px\" height=\"auto\" style=\"float:left;\"></a>\n				<a><p>Privacy</p></a>\n				<a><p>Disclaimer</p></a>\n				</div>\n\n				<div class=\"footersection\">\n				<a class=\"btn btn-danger\" id=\"redtheme\">Mortiere</a>\n				<a class=\"btn btn-primary\" id=\"bluetheme\">Noorderhaven</a>\n				</div>\n\n				<div class=\"footersection\">\n					<ul class=\"social\">\n						<li><a href=\"https://www.facebook.com/HeijmansNL\"><img src=\"img/heijmans_fb.png\" /></a></li>\n						<li><a href=\"http://pinterest.com/heijmansnl\"><img src=\"img/heijmans_pin.png\" /></a></li>\n						<li><a href=\"https://twitter.com/HeijmansNL\"><img src=\"img/heijmans_tw.png\" /></a></li>\n						<li><a href=\"http://www.youtube.com/user/HeijmansNV\"><img src=\"img/heijmans_yt.png\" /></a></li>\n					</ul>\n				</div>\n			</footer>",
+			"href=\"woningtype1.html\"",
+			"href=\"woningdetail1.html\"",
+			"woningtype1",
+			"<a class=\"btn btn-danger\" id=\"redtheme\">Mortiere</a>\n				<a class=\"btn btn-primary\" id=\"bluetheme\">Noorderhaven</a>",
+			"<a class=\"linkbutton contactshow\">Contact</a>",
+			"<a class=\"linkbutton\" id=\"contactshow\">Contact</a>",
+			"<a><p>Disclaimer</p></a>\n				<button class=\"btn btn-primary\" id=\"themetoggler\">Themaswitch</button>",
+			"",
+			"<body class=\"blueskin\">\n		<button class=\"btn btn-primary\" id=\"themetoggler\">Themaswitch</button>",
+			"",
+			"<button class=\"btn btn-primary\" id=\"themetoggler\">Themaswitch</button>",
+			"<script src=\"js/bootstrap/transition.js\"></script>\n		<script src=\"js/bootstrap/heijmans.js\"></script>",
+			"<button id=\"themetoggler\">Themaswitch</button>",
+			"<body class=\"blueskin\"",
+			"<a><p>Disclaimer</p></a>\n				<a id=\"themetoggler\"><p>thema</p></a>",
+			"				<a><p>Privacy</p></a>\n				<a><p>Disclaimer</p></a>",
+			"<a class=\"linkbutton\" href=\"contact.html\">Contact</a>",
+			"<title>Noorderhaven, je weet wat je wilt - een project van Heijmans</title>",
+			"<a href=\"index.html\"><img src=\"img/noorderhavenvooryou.png\" width=\"180\" height=\"auto\" style=\"float:left;margin-top:10px;\"/></a>",
+			"<title>Noorderhaven, weet  wat je wilt - een project van Heijmans</title>",
+			"<li><a href=\"http://www.youtube.com/user/HeijmansNV\"><img src=\"img/heijmans_yt.png\" /></a></li>",
+			"<li><a href=\"https://twitter.com/HeijmansNL\"><img src=\"img/heijmans_tw.png\" /></a></li>",
+			"<li><a href=\"http://pinterest.com/heijmansnl\"><img src=\"img/heijmans_pin.png\" /></a></li>",
+			"<li><a href=\"https://www.facebook.com/HeijmansNL\"><img src=\"img/heijmans_fb.png\" /></a></li>",
+			"<li><a href=\"https://www.facebook.com/HeijmansNL\"><img src=\"img/heijmans_fb.png\" /></a></li>12",
+			"<a href=\"index.html\"><img src=\"img/heijmans_logo.jpg\" width=\"100px\" height=\"auto\" style=\"float:left;\"></a>",
+			"<div class=\"nav-collapse\">",
+			"@black",
+			"@white",
+			"@headingclr",
+			"@white",
+			"height4",
+			"height3",
+			"height2",
+			"height1",
+			"#000000",
+			"",
+			",",
+			"-",
+			"src=\"css/",
+			"css/",
+			"href=\"css/bootstrap.css\"> ",
+			"href=\"css/vastgoed.css\">",
+			"href=\"css/bootstrap.css\"> ",
+			"landing"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 25082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4557,
+								4557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1533.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/yourboss.css",
+					"settings":
+					{
+						"buffer_size": 12812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 391.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"site.x",
+				"Types/Site/Site.xinclude"
+			],
+			[
+				"site",
+				"Types/Site/Site.htm"
+			],
+			[
+				"site.",
+				"Types/Site/Site.htm"
+			],
+			[
+				".css",
+				"Aedes.css"
+			],
+			[
+				"readme.html",
+				"modules/README.html"
+			],
+			[
+				"collapse.js",
+				"profiles/heijmans_projects/themes/heijmans_projects/js/bootstrap-collapse.js"
+			],
+			[
+				"colla",
+				"misc/collapse.js"
+			],
+			[
+				"shame",
+				"profiles/heijmans_projects/themes/heijmans_projects/less/shame.less"
+			],
+			[
+				"mixins",
+				"profiles/heijmans_projects/themes/heijmans_projects/less/mixins.less"
+			],
+			[
+				"variab",
+				"profiles/heijmans_projects/themes/heijmans_projects/less/variables.less"
+			],
+			[
+				"",
+				"profiles/heijmans_projects/themes/heijmans_projects/heijmans_projects.info"
+			],
+			[
+				"shame.css",
+				"profiles/heijmans_projects/themes/heijmans_projects/css/shame.css"
+			],
+			[
+				"extra.css",
+				"profiles/heijmans_projects/themes/heijmans_projects/css/extra.css"
+			],
+			[
+				"heijmans_proj",
+				"profiles/heijmans_projects/themes/heijmans_projects/heijmans_projects.info"
+			],
+			[
+				".ht",
+				"20130723-105023/.htaccess"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}
